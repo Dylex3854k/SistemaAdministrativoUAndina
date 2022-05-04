@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\SistemaAdministrativoUAndina\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\HP\source\repos\SistemaAdministrativoUAndina\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\HP\source\repos\SistemaAdministrativoUAndina\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\SistemaAdministrativoUAndina\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SistemaAdministrativoUAndina\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\HP\source\repos\SistemaAdministrativoUAndina\CapaNegocio\obj\Debug\CapaNegocio.pdb
